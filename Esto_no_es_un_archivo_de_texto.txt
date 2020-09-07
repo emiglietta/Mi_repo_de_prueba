@@ -2,4 +2,9 @@ Bueno, me atrapaste. Sí es un archivo de texto.
 
 Vos ganás.
 
+=======
+Mate café harina palmitos
+>>>>>>> 5779d7abfe8c3b036335bdcd21394b758b7c2922
+
+<<<<<<< HEAD
 Ja ahora los secretos han sido revelados
